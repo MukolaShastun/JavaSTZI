@@ -1,3 +1,5 @@
+package info.teib.training.lab1;
+
 /**
  * Created by Микола on 15.09.2015.
  */
